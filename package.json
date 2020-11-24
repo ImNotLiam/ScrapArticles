@@ -14,7 +14,7 @@
   "dependencies": {
     "fs-extra": "^7.0.0",
     "puppeteer": "^1.13.0",
-    "snyk": "^1.316.1"
+    "snyk": "^1.425.4"
   },
   "snyk": true
 }
